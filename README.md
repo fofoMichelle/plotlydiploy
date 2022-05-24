@@ -11,6 +11,8 @@ On the webpage you can visualize 3 graphs:
 - a bar chart
 - bubble chart
 - gauge chart
+
+
 As we choose the id number of our test subjects the 3 of them will update to show respectively : demographic info, the top 10 bacteria cultures as well as the belly button washing frequency.
 This will help the food start up company as well as the test subjects to visualize our findings.
 

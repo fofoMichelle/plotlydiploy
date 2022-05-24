@@ -5,4 +5,4 @@ The main purpose was to visualize the findings of a research that was done to co
 
 We have created a dashboard that allow lab researchers to expose their findings based on the id numbers of our test subjects
 
-Please [click here](https://fofomichelle.github.io/plotlydiploy) to visualize the final look of the dashboard created 
+Please [click here](https://fofomichelle.github.io/plotlydiploy/) to visualize the final look of the dashboard created 
